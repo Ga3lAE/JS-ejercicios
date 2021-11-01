@@ -1,0 +1,21 @@
+body{
+    height:100vh;
+    background-image: linear-gradient(#BCCC9A, #D1E8E4);
+    padding-left: 2rem;
+    padding-top: 2rem;
+    height: 100%;
+}
+h1{
+    color: #1F1D36;
+}
+h2{
+    color: #3F3351;
+}
+li{
+    margin-left: 2rem;
+    color: #864879;
+    list-style: none;
+}
+.Ul-buc-1{
+    padding-left: 1rem;
+}
